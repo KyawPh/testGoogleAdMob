@@ -1,0 +1,7 @@
+{
+  "name": "beastAds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
